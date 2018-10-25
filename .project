@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>FishGameCode</name>
+	<name>finalproject</name>
 	<comment></comment>
 	<projects>
-		<project>FishyGame</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
@@ -15,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>recode</name>
+			<type>2</type>
+			<location>C:/Users/kelka/Downloads/recode</location>
+		</link>
+	</linkedResources>
 </projectDescription>
